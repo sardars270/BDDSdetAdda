@@ -11,6 +11,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class LoginPage  extends BaseTest{
 
 	//WebDriver  driver;
+	// another commit for LoginBranch
 	
 	By txt_username = By.name("email");
 	By txt_password = By.name("password");
